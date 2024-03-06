@@ -13,7 +13,7 @@ Future main() async {
 }
 
 class MyApp extends StatelessWidget {
-  static const String title = 'Vouncher PDF';
+  static const String title = 'Vouncher PDF Test';
 
   const MyApp({super.key});
 

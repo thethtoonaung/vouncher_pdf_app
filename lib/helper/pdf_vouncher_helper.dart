@@ -27,10 +27,10 @@ class PdfVouncherHelper {
         children: [
           Text("02000-1 Stop Kitchen9 (Pan Hla)",
               style: TextStyle(fontSize: 17, fontWeight: FontWeight.bold)),
-          Text("Tel : 09772557759", style: TextStyle(fontSize: 14)),
+          Text("Tel : 09772557759", style: TextStyle(fontSize: 15)),
           SizedBox(height: 0.8 * PdfPageFormat.cm),
           Text(
-            'Date: 01-Mar-24 05:35 PM',
+            'Date: 06-Mar-24 05:35 PM',
             style: TextStyle(
               fontSize: 17,
             ),
